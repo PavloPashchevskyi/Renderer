@@ -1,0 +1,6 @@
+.vs/
+Renderer/.vs/
+Renderer/Debug/
+Renderer/x64/
+Renderer/*.vcxproj
+Renderer/*.vcxproj.*
